@@ -3,7 +3,7 @@ import PageHeader from "../components/PageHeader.jsx";
 
 const links = [
   { icon: FiLinkedin, label: "LinkedIn", href: "https://linkedin.com/in/Tanushree-shahapurmath" },
-  { icon: FiGithub,   label: "GitHub",   href: "https://github.com/" },
+  { icon: FiGithub,   label: "GitHub",   href: "https://github.com/Tanushree015" },
 ];
 
 export default function Contact() {
