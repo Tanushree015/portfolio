@@ -15,7 +15,7 @@ export default function Home() {
 
         <div className="mt-8 max-w-3xl">
           <h1 className="anim-fade-up delay-1 font-display text-3xl font-semibold leading-tight tracking-tight md:text-5xl">
-            Hi, I'm Tanushree Shahapurmath <span aria-hidden="true">👋</span>
+            Hi, I'm Tanushree <span aria-hidden="true">👋</span>
           </h1>
           <p className="anim-fade-up delay-2 mt-4 font-display text-lg font-medium text-accent md:text-xl">
             MCA Student | Python Developer | Full Stack Developer
@@ -27,7 +27,7 @@ export default function Home() {
           </p>
 
           <div className="anim-fade-up delay-4 mt-8 flex items-center justify-center gap-4">
-            <a href="https://github.com/" target="_blank" rel="noopener noreferrer"
+            <a href="https://github.com/Tanushree015" target="_blank" rel="noopener noreferrer"
               aria-label="GitHub"
               className="glass flex h-12 w-12 items-center justify-center rounded-full text-slate-300 transition-colors hover:text-accent">
               <FiGithub size={20} />
@@ -37,11 +37,7 @@ export default function Home() {
               className="glass flex h-12 w-12 items-center justify-center rounded-full text-slate-300 transition-colors hover:text-accent">
               <FiLinkedin size={20} />
             </a>
-            <a href="mailto:tanushahapurmath@gmail.com"
-              aria-label="Email"
-              className="glass flex h-12 w-12 items-center justify-center rounded-full text-slate-300 transition-colors hover:text-accent">
-              <FiMail size={20} />
-            </a>
+            
           </div>
         </div>
       </section>
